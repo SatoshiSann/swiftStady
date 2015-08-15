@@ -14,4 +14,6 @@ var value = 1;
 for i in 4...10{
     value += i;
 }
-
+for i in 3...5{
+    value -= i;
+}
